@@ -1,3 +1,5 @@
+This repository has been moved to Gitlab: [https://gitlab.com/flywheel-io/flywheel-apps/bids-mriqc](https://gitlab.com/flywheel-io/flywheel-apps/bids-mriqc)
+
 # bids-mriqc
 Gear that runs the [MRIQC](https://mriqc.readthedocs.io/en/stable/about.html) pipeline on [BIDS-curated data](https://bids.neuroimaging.io/).
 
